@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:registration_app/provider/login_provider.dart';
 import 'package:registration_app/services/auth.dart';
 import 'package:registration_app/view/homescreen.dart';
-import 'package:registration_app/view/regist_screen.dart';
+import 'package:registration_app/view/login_screen.dart';
 import 'package:registration_app/view/widgets/buttons.dart';
 import 'package:registration_app/view/widgets/textform_widget.dart';
 

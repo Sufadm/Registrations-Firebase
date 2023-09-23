@@ -41,12 +41,4 @@ class AuthService {
       return null;
     }
   }
-
-  Future logout() async {
-    try {
-      return await auth.signOut();
-    } catch (e) {
-      return null;
-    }
-  }
 }
